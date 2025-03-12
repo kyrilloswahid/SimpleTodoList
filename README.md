@@ -9,13 +9,9 @@ A simple React Native app that allows users to add, view, and mark tasks as comp
 
 ---
 
-## 📹 Demo Video
+## 📹 Demo Preview
 
-<video width="600" controls>
-  <source src="mock.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
+![Demo](mock.gif)
 > **Note:** If the video does not play, open the `mock.mp4` file manually.
 
 
