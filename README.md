@@ -21,6 +21,6 @@ A simple React Native app that allows users to add, view, and mark tasks as comp
 
 Run the project directly in your browser using Expo Snack:
 
-🔗 **[Live Preview on Expo Snack]([https://snack.expo.dev/YOUR_SNACK_LINK](https://snack.expo.dev/dUS53JXvFlibi5yu5j42n))**
+🔗 **[Live Preview on Expo Snack]([https://snack.expo.dev/dUS53JXvFlibi5yu5j42n])**
 
 ---
