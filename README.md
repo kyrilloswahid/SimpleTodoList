@@ -18,6 +18,7 @@ A simple React Native app that allows users to add, view, and mark tasks as comp
 
 > **Note:** If the video does not play, open the `mock.mp4` file manually.
 
+
 ---
 
 ## 🌍 Try it Online
