@@ -11,9 +11,10 @@ A simple React Native app that allows users to add, view, and mark tasks as comp
 
 ## 📹 Demo Video
 
-![Demo Video](mock.mp4)
-
-You can view the app in action by playing the video above.
+<video width="600" controls>
+  <source src="mock.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 > **Note:** If the video does not play, open the `mock.mp4` file manually.
 
@@ -30,7 +31,6 @@ Run the project directly in your browser using Expo Snack:
 ## 🛠 Installation
 
 ```sh
-# 1. Clone this repository:
 git clone https://github.com/kyriloswahid/SimpleTodoList.git
 cd first_app
 
